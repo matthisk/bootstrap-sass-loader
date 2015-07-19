@@ -29,7 +29,7 @@ Boostrap Version
 ---
 The version of sass-bootrap used is listed in peerDependencies, so you should be able to use whichever version you like.
 
-Simply specify that version of `sass-bootrap` in your `package.json`, like this:
+Simply specify that version of `bootrap-sass` in your `package.json`, like this:
 
     "bootstrap-sass": "~3.3.1"
 
